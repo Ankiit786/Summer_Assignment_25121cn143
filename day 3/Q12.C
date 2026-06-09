@@ -12,4 +12,4 @@ int main() {
     int num1 = 12, num2 = 15;
     printf("LCM of %d and %d = %d\n", num1, num2, lcm(num1, num2));
     return 0;
-}   
+}  
